@@ -1,0 +1,15 @@
+#NAME->APPID
+7 Days to Die->251570
+Counter-Strike 2->730
+Age of Empires II->813780
+Barotrauma->602960
+Green Hell->815370
+Rust->252490
+Space Engineers->244850
+Squad->393380
+Subsistence->418030
+Payday 2->218620
+PlanetSide 2->218230
+Factorio->427520
+Project Zomboid->108600
+Sons of the Forest->1326470

@@ -1,0 +1,1 @@
+echo "farts" > tmp.txt
