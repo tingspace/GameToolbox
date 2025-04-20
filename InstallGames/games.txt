@@ -1,4 +1,4 @@
-#NAME->APPID
+#NAME->#APPID
 7 Days to Die->251570
 Counter-Strike 2->730
 Age of Empires II->813780
