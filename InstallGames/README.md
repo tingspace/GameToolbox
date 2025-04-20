@@ -1,14 +1,14 @@
 # Install Games script
 
-A PowerShell script that install the games defined in the [games.txt](games.txt) file.
+A PowerShell script that allows us to make sure we have the same games installed. 
+
+The games to install can be found in the [games.txt](games.txt) file.
 
 Everyone that needs this script usually runs:
 1. Windows (Win10 at minimum)
 2. Steam
 
 ## Using the script
-
-
 
 Download the [install.ps1](install.ps1) script somewhere safe, then run it.
 
